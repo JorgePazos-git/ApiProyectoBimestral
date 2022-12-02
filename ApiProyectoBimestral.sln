@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProyectoBimestral", "ApiProyectoBimestral\ApiProyectoBimestral.csproj", "{2DB8ADA4-20FE-4AFF-A56C-2AF2A02956F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB8ADA4-20FE-4AFF-A56C-2AF2A02956F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB8ADA4-20FE-4AFF-A56C-2AF2A02956F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB8ADA4-20FE-4AFF-A56C-2AF2A02956F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB8ADA4-20FE-4AFF-A56C-2AF2A02956F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702AAD78-A742-424C-8CA2-8BF358999242}
+	EndGlobalSection
+EndGlobal
